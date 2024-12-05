@@ -38,3 +38,13 @@ The database is designed with several interconnected tables. Each table is relat
 6. **Projects**
    - Represents ongoing or completed projects within an organization.
    - Foreign Keys: `StaffID`, `ProductID`, and `OrganizationID` link to the `Staff`, `Products`, and `Organizations` tables respectively.
+  
+
+
+ ## Contributors
+
+   - Samuel Hazlett
+   - Aleu Aleu
+   - Vi Dao
+   - Scott Browning
+   - Alix Spahr
